@@ -3,8 +3,8 @@
 ## 1. Halaman Utama
 ![img](foto1.png)
 ## 2. Foto
-![img](foto1.png)
+![img](foto2.png)
 ## 3. kegiatan
-![img](foto1.png)
+![img](foto3.png)
 ## 4. Profil
-![img](foto1.png)
+![img](foto4.png)
